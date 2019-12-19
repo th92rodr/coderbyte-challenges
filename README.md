@@ -8,3 +8,11 @@
 ****
 
 Coding challenges and technical interview preps
+
+
+### Google Interview Prep
+
+#### - Find the middle element of a linked list
+
+#### - Two sum problem</br>
+Determine if two numbers in an array sum to a specific value
