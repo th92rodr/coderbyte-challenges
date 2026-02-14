@@ -27,11 +27,13 @@ This repository contains my personal solutions to the coding challenges and tech
 ## 🚀 How to Use
 
 1. Clone the repository:
+
 ```bash
 git clone git@github.com:th92rodr/coderbyte-challenges.git
 ```
 
 2. Browse to the folder of interest:
+
 ```bash
 cd coderbyte-challenges/<>
 ```
@@ -46,3 +48,9 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 This repository is for educational purposes only.  
 All solutions were written by me.
+
+---
+
+## Author
+
+[**@th92rodr**](https://github.com/th92rodr)
